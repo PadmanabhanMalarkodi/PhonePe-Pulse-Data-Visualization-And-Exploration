@@ -7,12 +7,18 @@ PhonePe is one of India's leading digital payment platforms, processing millions
 ## Problem Statement
 The PhonePe Pulse GitHub repository contains a wealth of data related to various metrics and statistics. The goal is to:
 
-**Extract Data**: Clone the PhonePe Pulse GitHub repository using scripting to fetch the data and store it in a suitable format (e.g., CSV or JSON).
+**Extract Data**: Clone the PhonePe Pulse GitHub repository using scripting to fetch the data and store it in a suitable format (e.g., CSV or JSON)
+
 **Transform Data**: Utilize Python, along with libraries like Pandas, to preprocess and clean the data, making it suitable for analysis.
+
 **Database Insertion**: Use the "mysql-connector-python" library to connect to a MySQL database and insert the transformed data.
+
 **Dashboard Creation**: Build an interactive and visually appealing dashboard using Streamlit and Plotly to display the data.
+
 **Data Retrieval**: Fetch data from the MySQL database and update the dashboard dynamically.
+
 **User-Friendly Interface**: Provide at least 10 different dropdown options for users to select different facts and figures for display on the dashboard.
+
 The solution aims to be secure, efficient, and user-friendly, offering valuable insights and information about the data in the PhonePe Pulse GitHub repository.
 
 ## Approach
