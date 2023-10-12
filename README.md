@@ -45,7 +45,7 @@ The solution aims to be secure, efficient, and user-friendly, offering valuable 
 * Thoroughly test the solution.
 * Deploy the dashboard publicly to make it accessible to users.
   
-* This approach harnesses the power of Python and its libraries to extract, transform, and analyze data. It culminates in the creation of a user-friendly dashboard that provides valuable insights from the PhonePe Pulse GitHub repository data.
+This approach harnesses the power of Python and its libraries to extract, transform, and analyze data. It culminates in the creation of a user-friendly dashboard that provides valuable insights from the PhonePe Pulse GitHub repository data.
 
 
 
